@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
 public class DBTestTest {
     @BeforeClass
     public static void setUpAll(){
-        System.out.println("setUpAll 执行一次 66  ");
+        System.out.println("setUpAll 执行一次 66 77 ");
     }
     @AfterClass
     public  static void tearDownAll(){
